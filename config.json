@@ -1,11 +1,5 @@
 [
   {
-    "name": "iHeadshot",
-    "supabase_url": "https://dkboikgtiflcrksjmouo.supabase.co",
-    "supabase_key_env": "SUPABASE_KEY_IHEADSHOT",
-    "table_name": "keep-alive"
-  },
-  {
     "name": "Trailancer",
     "supabase_url": "https://eiaaeeizodlrvasjrzpg.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_TRAILANCER",
