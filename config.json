@@ -10,5 +10,11 @@
     "supabase_url": "https://lcumqypysqcmkxottxuy.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_IDEAMRR",
     "table_name": "keep-alive"
+  },
+  {
+    "name": "iHeadshot",
+    "supabase_url": "https://dkboikgtiflcrksjmouo.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_IHEADSHOT",
+    "table_name": "keep-alive"
   }
 ]
